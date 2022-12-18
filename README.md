@@ -1,7 +1,7 @@
 # Dmytro_Petrenko
 This is a Selenium home task (variant 3). The test is written in file "PayGrades_test.py"
 
-###Run
+### Run
 Go to the directory with files
 Install requirements
 ```
