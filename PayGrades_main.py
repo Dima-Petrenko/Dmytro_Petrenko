@@ -110,30 +110,3 @@ class NewRecordPayGrades():
         except:
             pass
 
-# if __name__ == "__main__":
-#     obj = NewRecordPayGrades()
-#     obj.LoginPage()
-#     obj.PathToGrades()
-#     obj.AddRecord()
-#     obj.CheckRecord()
-#     obj.DeleteRecord()
-# class TestPayGrades(unittest.TestCase):
-#     # def setUp(self):
-#     #     self.test = NewRecordPayGrades()
-#     def test_my(self):
-#         self.test = NewRecordPayGrades()
-#         self.test.LoginPage()
-#         self.test.PathToGrades()
-#     # def test_2(self):
-#         self.test.PathToGrades()
-# # global test
-
-# # def test_unit_driver():
-# #     global test
-# #     test = NewRecordPayGrades()
-    
-# # def test_login_page():
-# #     test = NewRecordPayGrades()
-# #     test.LoginPage()
-# if __name__ == '__main__':
-#     unittest.main()
